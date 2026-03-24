@@ -33,3 +33,8 @@ mae = mean_absolute_error(y_test, predictions)
 
 print("Model trained successfully!")
 print("MAE:", mae)
+import joblib
+
+joblib.dump(model, "model.pkl")
+
+print("Model saved as model.pkl")
