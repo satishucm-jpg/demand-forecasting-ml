@@ -1,19 +1,19 @@
-# Demand Forecasting ML System
+## 🚀 Live Demo
 
-Built an end-to-end machine learning system to forecast product demand using time-series data.
+- 🌐 Render: https://demand-forecasting-ml-adet.onrender.com/docs
+- ☁️ AWS EC2: http://18.118.147.166:8000/docs
 
-## 🚀 Features
-- Synthetic data generation simulating real-world sales patterns
-- Feature engineering (lag features, rolling averages, seasonality)
-- XGBoost regression model for demand prediction
-- REST API using FastAPI for real-time predictions
+## 🧠 Overview
 
-## 🛠️ Tech Stack
+This project predicts product demand using machine learning with time-series feature engineering (lag features, rolling averages).
+
+## ⚙️ Tech Stack
+
 - Python
-- Pandas, NumPy
-- Scikit-learn, XGBoost
+- Scikit-learn (RandomForest)
 - FastAPI
-- Docker (optional)
+- AWS EC2
+- Render
 
 ## 📊 Model Performance
 - Mean Absolute Error (MAE): ~4.6
