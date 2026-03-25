@@ -65,16 +65,16 @@ Endpoint: POST `/predict`
 	•	Configured FastAPI server with public access
 
 💼 Key Learnings
+
 	•	Handling dependency issues in cloud environments
 	•	Model optimization for low-resource machines
 	•	End-to-end ML deployment pipeline
 	•	Building and deploying REST APIs
 
 📌 Future Improvements
+
 	•	Add Streamlit dashboard for visualization
 	•	Real-time streaming using Kafka
 	•	Model monitoring and retraining pipeline
 	•	Docker + Kubernetes deployment
-👨‍💻 Author
-
-Sai Satish
+👨‍💻 Author : Sai Satish
