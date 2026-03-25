@@ -52,7 +52,9 @@ Endpoint: POST `/predict`
   "lag_1": 150,
   "rolling_mean_7": 148
 }
-Response:   "predicted_sales": 158.26"
+{
+  "predicted_sales": 158.26
+}
 
 ☁️ Deployment
 	•	Deployed on Render for quick access
