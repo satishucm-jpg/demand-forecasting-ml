@@ -43,7 +43,6 @@ Endpoint: POST `/predict`
 
 ### Request Example:
 
-```json
 {
   "day": 15,
   "month": 3,
@@ -52,6 +51,7 @@ Endpoint: POST `/predict`
   "lag_1": 150,
   "rolling_mean_7": 148
 }
+### Response:
 {
   "predicted_sales": 158.26
 }
@@ -60,11 +60,13 @@ Endpoint: POST `/predict`
 	•	Deployed on Render for quick access
 	•	Deployed on AWS EC2 for production-level hosting
 	•	Configured FastAPI server with public access
+
 💼 Key Learnings
 	•	Handling dependency issues in cloud environments
 	•	Model optimization for low-resource machines
 	•	End-to-end ML deployment pipeline
 	•	Building and deploying REST APIs
+
 📌 Future Improvements
 	•	Add Streamlit dashboard for visualization
 	•	Real-time streaming using Kafka
