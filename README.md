@@ -5,6 +5,14 @@
 - 🌐 Render: https://demand-forecasting-ml-adet.onrender.com/docs  
 - ☁️ AWS EC2: http://18.118.147.166:8000/docs  
 
+
+📸 Screenshots
+
+API Documentation (Swagger UI)
+![Swagger UI](assets/swagger.png)
+
+Prediction Example
+![Prediction](assets/prediction.png)
 🧠 Project Overview
 
 This project predicts product demand using machine learning and time-series feature engineering.  
