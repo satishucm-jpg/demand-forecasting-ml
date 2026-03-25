@@ -57,8 +57,11 @@ Endpoint: POST `/predict`
 }
 
 ☁️ Deployment
+
 	•	Deployed on Render for quick access
+
 	•	Deployed on AWS EC2 for production-level hosting
+	
 	•	Configured FastAPI server with public access
 
 💼 Key Learnings
